@@ -1,7 +1,10 @@
 # Shop
 
+<<<<<<< HEAD
 Simple learning project
 
+=======
+>>>>>>> 42a10b2cdcfe5ed8b0403bb8c9c50a51661d5b44
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
 
 ## Development server
